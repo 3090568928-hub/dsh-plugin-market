@@ -251,7 +251,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 38830,
+          "stars": 38883,
           "updated": 1795255076
         }
       },
@@ -281,18 +281,18 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 30478,
-          "updated": 1795330562
+          "stars": 30648,
+          "updated": 1795414400
         }
       },
       "versions": [
         {
           "version": "3.5.0",
-          "publishTimestamp": 1795330562,
+          "publishTimestamp": 1795414400,
           "source": {
             "type": "git",
             "url": "https://github.com/alchaincyf/huashu-design",
-            "commit": "937113133ae446a69ea19d4ceed6cbd2ed3c7735"
+            "commit": "59065698ad63f87ea1532c126c87f488d4f93fd6"
           }
         }
       ]
@@ -416,7 +416,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 11687,
+          "stars": 11914,
           "updated": 1794997485
         }
       },
@@ -446,18 +446,18 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 8751,
-          "updated": 1795402940
+          "stars": 8784,
+          "updated": 1795447410
         }
       },
       "versions": [
         {
           "version": "0.31.0",
-          "publishTimestamp": 1795402940,
+          "publishTimestamp": 1795447410,
           "source": {
             "type": "git",
             "url": "https://github.com/superdesigndev/treg",
-            "commit": "2a9b3d0e48884f5ae3e273c25ea4c2d85ec8f002"
+            "commit": "4b8027741ef283a171636c6fd6e9c7166b599daf"
           }
         }
       ]
@@ -509,18 +509,18 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 7899,
-          "updated": 1795331723
+          "stars": 7963,
+          "updated": 1795411497
         }
       },
       "versions": [
         {
           "version": "1.4.3",
-          "publishTimestamp": 1795331723,
+          "publishTimestamp": 1795411497,
           "source": {
             "type": "git",
             "url": "https://github.com/elysia395/dsh-wallpaper-engine",
-            "commit": "3caad1b860c1cc6423971ed56d067a4cb4b4098c"
+            "commit": "0857af3894cf549e6a8d3f42230d53d854b9ac74"
           },
           "engines": {
             "dsh": "^0.2.0-rc.1"
@@ -542,18 +542,18 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 6606,
-          "updated": 1795403117
+          "stars": 6627,
+          "updated": 1795426493
         }
       },
       "versions": [
         {
           "version": "0.6.2",
-          "publishTimestamp": 1795403117,
+          "publishTimestamp": 1795426493,
           "source": {
             "type": "git",
             "url": "https://github.com/QingYunA/answer-me-with-html",
-            "commit": "997479b6f34c8a5141c61b03f144e821c8f99f2d"
+            "commit": "8411df37a9aecb62a6048f18ba63bd27bb74abec"
           }
         }
       ]
@@ -572,7 +572,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 5976,
+          "stars": 5990,
           "updated": 1795340634
         }
       },
@@ -605,7 +605,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 5808,
+          "stars": 5851,
           "updated": 1791870646
         }
       },
@@ -704,7 +704,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 2488,
+          "stars": 2489,
           "updated": 1795346644
         }
       },
@@ -737,7 +737,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 2242,
+          "stars": 2255,
           "updated": 1795034167
         }
       },
@@ -801,7 +801,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 2208,
+          "stars": 2216,
           "updated": 1795166297
         }
       },
@@ -831,7 +831,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 1811,
+          "stars": 1831,
           "updated": 1794124468
         }
       },
@@ -861,7 +861,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 1660,
+          "stars": 1687,
           "updated": 1795012176
         }
       },
@@ -894,18 +894,18 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 1467,
-          "updated": 1794500464
+          "stars": 1469,
+          "updated": 1795429195
         }
       },
       "versions": [
         {
-          "version": "2.5.2",
-          "publishTimestamp": 1794500464,
+          "version": "2.5.3",
+          "publishTimestamp": 1795429195,
           "source": {
             "type": "git",
             "url": "https://github.com/c1overzz/dsh-bili-scroll",
-            "commit": "6f3ab83993ccc51df9331048a8f9a51bef19bc28"
+            "commit": "9af983215cfe82117dff870b0d38021e53d18975"
           },
           "engines": {
             "dsh": ">=0.1.7-rc.1"
@@ -962,18 +962,18 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 1296,
-          "updated": 1795403993
+          "stars": 1297,
+          "updated": 1795447514
         }
       },
       "versions": [
         {
           "version": "3.4.0",
-          "publishTimestamp": 1795403993,
+          "publishTimestamp": 1795447514,
           "source": {
             "type": "git",
             "url": "https://github.com/ysr666/dsh-vision-router",
-            "commit": "3b1bf425a015dc9fcd89b1d239c23cae8218aab0"
+            "commit": "d5eae7cc65b7cb98609a55d1dac003f86f3897e4"
           },
           "engines": {
             "dsh": ">=0.2.1-rc.5 <0.3.0-0"
@@ -995,7 +995,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 1214,
+          "stars": 1227,
           "updated": 1795382880
         }
       },
@@ -1097,7 +1097,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 1051,
+          "stars": 1054,
           "updated": 1787289803
         }
       },
@@ -1127,7 +1127,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 1027,
+          "stars": 1034,
           "updated": 1793864688
         }
       },
@@ -1160,18 +1160,18 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 1014,
-          "updated": 1795341537
+          "stars": 1016,
+          "updated": 1795445627
         }
       },
       "versions": [
         {
-          "version": "0.82.0",
-          "publishTimestamp": 1795341537,
+          "version": "0.82.2",
+          "publishTimestamp": 1795445627,
           "source": {
             "type": "git",
             "url": "https://github.com/Alice-Marx/dsh-model-router",
-            "commit": "1c711b3e68a6f10f3892713ec6452bde13de2964"
+            "commit": "e26dd24e114aed8bee03c8d22cabd8c53ec78fe7"
           }
         }
       ]
@@ -1190,7 +1190,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 910,
+          "stars": 916,
           "updated": 1795099426
         }
       },
@@ -1220,7 +1220,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 907,
+          "stars": 912,
           "updated": 1793066714
         }
       },
@@ -1250,7 +1250,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 872,
+          "stars": 874,
           "updated": 1794993438
         }
       },
@@ -1262,6 +1262,36 @@
             "type": "git",
             "url": "https://github.com/6shenhonghong9/dsh-startup-screen",
             "commit": "872ae017ff2183d195495b26111b61f518f7b420"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dsh-purge-safe",
+      "title": {
+        "en": "dsh-purge-safe"
+      },
+      "description": {
+        "en": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「鸢码」。满血版本 + Super Agent 适配，面向 DSH 0.2.2-rc.5；优化提示词，降低拒绝率，提升稳定性。"
+      },
+      "homepage": "https://github.com/CallMeGuLab/dsh-purge-safe",
+      "repository": {
+        "url": "https://github.com/CallMeGuLab/dsh-purge-safe"
+      },
+      "metadata": {
+        "sortKeys": {
+          "stars": 863,
+          "updated": 1795336624
+        }
+      },
+      "versions": [
+        {
+          "version": "2.0.2",
+          "publishTimestamp": 1795336624,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/CallMeGuLab/dsh-purge-safe",
+            "commit": "29bf73a962891cc2c543077572ebd70078897d69"
           }
         }
       ]
@@ -1304,36 +1334,6 @@
       ]
     },
     {
-      "name": "dsh-purge-safe",
-      "title": {
-        "en": "dsh-purge-safe"
-      },
-      "description": {
-        "en": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「鸢码」。满血版本 + Super Agent 适配，面向 DSH 0.2.2-rc.5；优化提示词，降低拒绝率，提升稳定性。"
-      },
-      "homepage": "https://github.com/CallMeGuLab/dsh-purge-safe",
-      "repository": {
-        "url": "https://github.com/CallMeGuLab/dsh-purge-safe"
-      },
-      "metadata": {
-        "sortKeys": {
-          "stars": 823,
-          "updated": 1795336624
-        }
-      },
-      "versions": [
-        {
-          "version": "2.0.2",
-          "publishTimestamp": 1795336624,
-          "source": {
-            "type": "git",
-            "url": "https://github.com/CallMeGuLab/dsh-purge-safe",
-            "commit": "29bf73a962891cc2c543077572ebd70078897d69"
-          }
-        }
-      ]
-    },
-    {
       "name": "@zseven-w/dsh-game-studio",
       "title": {
         "en": "dsh-game-studio"
@@ -1347,7 +1347,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 821,
+          "stars": 847,
           "updated": 1795276892
         }
       },
@@ -1411,51 +1411,21 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 746,
-          "updated": 1795358357
+          "stars": 751,
+          "updated": 1795442261
         }
       },
       "versions": [
         {
-          "version": "1.9.85",
-          "publishTimestamp": 1795358357,
+          "version": "1.9.86",
+          "publishTimestamp": 1795442261,
           "source": {
             "type": "git",
             "url": "https://github.com/Han-1413141/dsh-cost-meter",
-            "commit": "22bf4d3c9d6abcc08b2b34d4cadbaa1a35b97435"
+            "commit": "f78a472bd26fe767fc74b025df5f337dfa4ea5b8"
           },
           "engines": {
             "dsh": ">=0.2.0-rc.1 <0.3.0-0"
-          }
-        }
-      ]
-    },
-    {
-      "name": "dsh-synapse",
-      "title": {
-        "en": "dsh-synapse"
-      },
-      "description": {
-        "en": "A visual, non-linear conversation workspace plugin for DeepSeek Harness."
-      },
-      "homepage": "https://github.com/liangmianya/dsh-synapse",
-      "repository": {
-        "url": "https://github.com/liangmianya/dsh-synapse"
-      },
-      "metadata": {
-        "sortKeys": {
-          "stars": 745,
-          "updated": 1795327670
-        }
-      },
-      "versions": [
-        {
-          "version": "0.5.8",
-          "publishTimestamp": 1795327670,
-          "source": {
-            "type": "git",
-            "url": "https://github.com/liangmianya/dsh-synapse",
-            "commit": "a861d03e2c22eef202d99dfe738a41f832378edc"
           }
         }
       ]
@@ -1474,18 +1444,48 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 741,
-          "updated": 1795275305
+          "stars": 751,
+          "updated": 1795434415
         }
       },
       "versions": [
         {
           "version": "0.2.6",
-          "publishTimestamp": 1795275305,
+          "publishTimestamp": 1795434415,
           "source": {
             "type": "git",
             "url": "https://github.com/SAOS-3624/dsh-see-now",
-            "commit": "59c4d1a1b4bab0f6efec896f8bed578c352aca23"
+            "commit": "3818d18270e8dbe891758beec3a9a6db86ac66ed"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dsh-synapse",
+      "title": {
+        "en": "dsh-synapse"
+      },
+      "description": {
+        "en": "A visual, non-linear conversation workspace plugin for DeepSeek Harness."
+      },
+      "homepage": "https://github.com/liangmianya/dsh-synapse",
+      "repository": {
+        "url": "https://github.com/liangmianya/dsh-synapse"
+      },
+      "metadata": {
+        "sortKeys": {
+          "stars": 747,
+          "updated": 1795447524
+        }
+      },
+      "versions": [
+        {
+          "version": "0.5.10",
+          "publishTimestamp": 1795447524,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/liangmianya/dsh-synapse",
+            "commit": "e809baa27ef078b7642948e773ad6423b1efc9a1"
           }
         }
       ]
@@ -1504,7 +1504,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 737,
+          "stars": 746,
           "updated": 1791044987
         }
       },
@@ -1534,18 +1534,18 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 733,
-          "updated": 1795114805
+          "stars": 737,
+          "updated": 1795439479
         }
       },
       "versions": [
         {
           "version": "0.1.0",
-          "publishTimestamp": 1795114805,
+          "publishTimestamp": 1795439479,
           "source": {
             "type": "git",
             "url": "https://github.com/mnemon-dev/mnemon",
-            "commit": "ccc8ace2d21aa4667535c58910fe953f3bbe764a"
+            "commit": "d739477aba3a5425d14e8a4a785cccd70ad9dedf"
           }
         }
       ]
@@ -1598,7 +1598,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 702,
+          "stars": 703,
           "updated": 1794107538
         }
       },
@@ -1631,7 +1631,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 679,
+          "stars": 680,
           "updated": 1790815549
         }
       },
@@ -1661,7 +1661,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 629,
+          "stars": 630,
           "updated": 1793258349
         }
       },
@@ -1691,7 +1691,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 624,
+          "stars": 625,
           "updated": 1795355877
         }
       },
@@ -1757,18 +1757,18 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 598,
-          "updated": 1795358422
+          "stars": 604,
+          "updated": 1795432561
         }
       },
       "versions": [
         {
-          "version": "3.0.2",
-          "publishTimestamp": 1795358422,
+          "version": "3.0.6",
+          "publishTimestamp": 1795432561,
           "source": {
             "type": "git",
             "url": "https://github.com/XDTrees/dsh-xdpool",
-            "commit": "2c1bac06d61ddb23d496636f1c1ae2e28b88c8cd"
+            "commit": "4a86b4c080318618dfcd65265bd13ee00cb7b05c"
           },
           "engines": {
             "dsh": ">=0.1.5-rc.1 <0.3.0"
@@ -1854,18 +1854,18 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 564,
-          "updated": 1795262801
+          "stars": 569,
+          "updated": 1795434216
         }
       },
       "versions": [
         {
-          "version": "0.15.1",
-          "publishTimestamp": 1795262801,
+          "version": "0.15.2",
+          "publishTimestamp": 1795434216,
           "source": {
             "type": "git",
             "url": "https://github.com/omdsh-dev/dsh-ego-browser",
-            "commit": "6feb26b5157e82e5d2e31d77149d86cd8e555c80"
+            "commit": "77b4756e4681be0a806808a329e85211f774f41d"
           }
         }
       ]
@@ -1884,18 +1884,18 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 557,
-          "updated": 1795268602
+          "stars": 560,
+          "updated": 1795418350
         }
       },
       "versions": [
         {
           "version": "2.4.3",
-          "publishTimestamp": 1795268602,
+          "publishTimestamp": 1795418350,
           "source": {
             "type": "git",
             "url": "https://github.com/dshplugin/dsh-plugin-hub",
-            "commit": "1be54dbfc7af1e1d35cb43ac69eae88d444caab7"
+            "commit": "fc116bbb5a9adae77a5b5af29d5ee3820d257386"
           }
         }
       ]
@@ -1914,7 +1914,7 @@
       },
       "metadata": {
         "sortKeys": {
-          "stars": 544,
+          "stars": 546,
           "updated": 1795200319
         }
       },
