@@ -1015,6 +1015,36 @@
       ]
     },
     {
+      "name": "easyeda-agent-dsh",
+      "title": {
+        "en": "easyeda-agent"
+      },
+      "description": {
+        "en": "EasyEDA Pro (JLC EDA) automation for DeepSeek Harness: MCP bridge + agent skill bundle"
+      },
+      "homepage": "https://github.com/zhoushoujianwork/easyeda-agent",
+      "repository": {
+        "url": "https://github.com/zhoushoujianwork/easyeda-agent"
+      },
+      "metadata": {
+        "sortKeys": {
+          "stars": 1204,
+          "updated": 1795516898
+        }
+      },
+      "versions": [
+        {
+          "version": "1.20.0",
+          "publishTimestamp": 1795516898,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/zhoushoujianwork/easyeda-agent",
+            "commit": "3b31af47229bf5f153587adaace34629a851c3a0"
+          }
+        }
+      ]
+    },
+    {
       "name": "dshmarket",
       "title": "dsh-market/dsh-market",
       "description": {
